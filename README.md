@@ -63,3 +63,16 @@ touch [NOME-DO-ARQUIVO.EXTENSÃO]
 
 ## 👨‍💻 Autor
 Feito com 💙 por [@kleutons](https://github.com/keutons)
+##
+
+<br>
+<br>
+<br>
+
+## 01 - Configuração do Git
+
+
+## 02 - AUTENTICAÇÃO Via Token
+
+
+## 03 - AUTENTICAÇÃO Via SSH 
