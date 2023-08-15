@@ -46,8 +46,8 @@ touch [NOME-DO-ARQUIVO.EXTENSÃO]
 ## 💻 Resumo das Aulas
 | Nº | Titulo do Resumo | Links |
 | --- | ----- | ------- |
-| 01 | Configuração do Git| [![Link do Curso](https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge)](https://github.com/kleutons/Git-e-GitHub/blob/main/aulas/01.md)|
-| 02 | AUTENTICAÇÃO Via Token | [![Link do Curso](https://img.shields.io/badge/Ver%20Resumo-E94D5F?style=for-the-badge)](https://github.com/kleutons/Git-e-GitHub/blob/main/aulas/02.md)|
+| 01 | Configuração do Git| [![Link do Curso](https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge)](#01---configuração-do-git)|
+| 02 | AUTENTICAÇÃO Via Token | [![Link do Curso](https://img.shields.io/badge/Ver%20Resumo-E94D5F?style=for-the-badge)](#02---autenticação-via-token)|
 | 03 | AUTENTICAÇÃO Via SSH | [![Link do Curso](https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge)](https://github.com/kleutons/Git-e-GitHub/blob/main/aulas/03.md)|
 | 04 | Criando e Clonando Repositórios| [![Link do Curso](https://img.shields.io/badge/Ver%20Resumo-E94D5F?style=for-the-badge)](https://github.com/kleutons/Git-e-GitHub/blob/main/aulas/04.md)|
 | 05 | SALVANDO Alterações no Repo Local| [![Link do Curso](https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge)](#)|
@@ -65,6 +65,8 @@ touch [NOME-DO-ARQUIVO.EXTENSÃO]
 Feito com 💙 por [@kleutons](https://github.com/keutons)
 ##
 
+<br>
+<br>
 <br>
 <br>
 <br>
