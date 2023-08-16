@@ -32,7 +32,7 @@ Repositório desenvolvido para fins educativo, para armazenar resumo sobre Git e
 - [Instr. - @elidianaandrade](https://github.com/elidianaandrade)
 
 ## 👨‍💻 Autor
-Feito com 💙 por [@kleutons](https://github.com/keutons)
+Feito com 💙 por [@kleutons](https://github.com/kleutons)
 ##
 
 <br>
@@ -428,7 +428,7 @@ git clone [URL] --branch [NOME-DA-BRANCH] --single-branch
 <br>
 
 ## 👨‍💻 Autor
-Feito com 💙 por [@kleutons](https://github.com/keutons)
+Feito com 💙 por [@kleutons](https://github.com/kleutons)
 ##
 
 <br>
