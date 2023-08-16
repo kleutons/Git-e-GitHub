@@ -43,7 +43,7 @@ Feito com 💙 por [@kleutons](https://github.com/kleutons)
 
 
 ## 01 - Comandos Básicos DOS Powershell
-[ ◀️ Voltar ao TOPO da Lista](#-resumo-das-aulas)
+[ 🔝 Voltar ao TOPO da Lista](#-resumo-das-aulas)
 
 - Limpar Tela
 ```
@@ -71,7 +71,7 @@ touch [NOME-DO-ARQUIVO.EXTENSÃO]
 <br>
 
 ## 02 - Configuração do Git
-[ ◀️ Voltar ao TOPO da Lista](#-resumo-das-aulas)
+[ 🔝 Voltar ao TOPO da Lista](#-resumo-das-aulas)
 - Exibe os comandos git config
 ```
 git config
@@ -102,7 +102,7 @@ git config --global init.defaultBranch [NOME-NOVA-BRANCH]
 <br>
 
 ## 03 - AUTENTICAÇÃO Via Token [LINK](https://github.com/settings/apps)
-[ ◀️ Voltar ao TOPO da Lista](#-resumo-das-aulas)
+[ 🔝 Voltar ao TOPO da Lista](#-resumo-das-aulas)
 - Salvar Credencial (após usar esse comando usar git clone e inseri o token)
 ```
 git config credential.helper store
@@ -137,7 +137,7 @@ cat .gitconfig
 <br>
 
 ## 04 - AUTENTICAÇÃO Via SSH - [Link](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-[ ◀️ Voltar ao TOPO da Lista](#-resumo-das-aulas)
+[ 🔝 Voltar ao TOPO da Lista](#-resumo-das-aulas)
 
 - Primeiro criar sua chave SSH
 
@@ -187,7 +187,7 @@ git clone [URL-SSH]
 <br>
 
 ## 05 - Criando e Clonando Repositórios
-[ ◀️ Voltar ao TOPO da Lista](#-resumo-das-aulas)
+[ 🔝 Voltar ao TOPO da Lista](#-resumo-das-aulas)
 
 - Iniciar Git, criação da pasta /.git
 ```
@@ -227,7 +227,7 @@ git remote add origin [URL-DO-REPO-GITHUB] **[NOME-DA-PASTA]
 <br>
 
 ## 06 - SALVANDO Alterações no Repositório Local
-[ ◀️ Voltar ao TOPO da Lista](#-resumo-das-aulas)
+[ 🔝 Voltar ao TOPO da Lista](#-resumo-das-aulas)
 
 - Adicionar arquivos atualizados, feitos alterações:
 ```
@@ -270,7 +270,7 @@ echo resumos/  >  .gitignore
 <br>
 
 ## 07 - DESFAZENDO Alterações no Repositório Local 
-[ ◀️ Voltar ao TOPO da Lista](#-resumo-das-aulas)
+[ 🔝 Voltar ao TOPO da Lista](#-resumo-das-aulas)
 
 - Para um bom uso desses comandos abaixo sempre use em conjunto o git status para analisar os status do commits 
 
@@ -312,7 +312,7 @@ git reset --hard [HASH-DO-COMMIT]
 <br>
 
 ## 08 - ENVIANDO E BAIXANDO Alterações no REPOSITÓRIO REMOTO
-[ ◀️ Voltar ao TOPO da Lista](#-resumo-das-aulas)
+[ 🔝 Voltar ao TOPO da Lista](#-resumo-das-aulas)
 
 - Enviando Arquivo para repositório remoto
 ```
@@ -334,7 +334,7 @@ git pull
 <br>
 
 ## 09 - TRABALHANDO COM BRANCHES - Criando, Mesclando, Deletando e Tratando Conflitos
-[ ◀️ Voltar ao TOPO da Lista](#-resumo-das-aulas)
+[ 🔝 Voltar ao TOPO da Lista](#-resumo-das-aulas)
 
 - Listar todas as Branchs e mostrar a selecionada com asterisco 
 ```
@@ -401,7 +401,7 @@ Agora você pode fazer um git push para enviar suas alterações para a branch r
 <br>
 
 ## 10 - TRABALHANDO COM BRANCHES - Comandos Úteis no Dia a Dia
-[ ◀️ Voltar ao TOPO da Lista](#-resumo-das-aulas)
+[🔝 Voltar ao TOPO da Lista](#-resumo-das-aulas)
 - O Comando git pull é uma junção -> git fetch + git merge, que nada mais é do que uma junção das alterações e os novos arquivos a serem baixando para o repositório local
 
 - Caso queira baixar as alterações sem mesclar com os arquivos local, use git fetch
