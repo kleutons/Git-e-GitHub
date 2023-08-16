@@ -15,7 +15,7 @@ Repositório desenvolvido para fins educativo, para armazenar resumo sobre Git e
 ## 💻 Resumo das Aulas
 | Nº | Titulo do Resumo | Links |
 | --- | ----- | ------- |
-| 01 | Comandos Básicos DOS Powershell | [![Link](https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge)](#01---comandos-básicos-dos-powershell) |
+| 01 | Comandos Básicos DOS Powershell | [![Link](https://img.shields.io/badge/Ver%20Resumo-E94D5F?style=for-the-badge)](#01---comandos-básicos-dos-powershell) |
 | 02 | Configuração do Git| [![Link](https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge)](#02---configuração-do-git)|
 | 03 | AUTENTICAÇÃO Via Token | [![Link](https://img.shields.io/badge/Ver%20Resumo-E94D5F?style=for-the-badge)](#03---autenticação-via-token-link)|
 | 04 | AUTENTICAÇÃO Via SSH | [![Link](https://img.shields.io/badge/Ver%20Resumo-30A3DC?style=for-the-badge)](#04---autenticação-via-ssh---link)|
